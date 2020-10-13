@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-10-13T11:23:39.891771800-04:00"
+from:
+  id-type: crev
+  id: mks-jt4QB_yZL_nwGvIC10RPNhtMyYkA6P_byirP8_Q
+  url: "https://github.com/GTRI-nathan/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  Trusting the author of crev seems reasonable
+----- SIGN CREV PROOF -----
+kbG0oX2sxSiaLxwxfFLLLgBeH7TaBz7awJtNqWof_-7eM8GUtTPAKkw0Wyny5wTL5j48fbhTt4xhqE8cP3kkDQ
+----- END CREV PROOF -----
+
