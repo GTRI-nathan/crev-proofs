@@ -1,0 +1,23 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-10-13T15:25:38.370379200-04:00"
+from:
+  id-type: crev
+  id: mks-jt4QB_yZL_nwGvIC10RPNhtMyYkA6P_byirP8_Q
+  url: "https://github.com/GTRI-nathan/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: matches
+  version: 0.1.8
+  digest: wEgXzIZmN2BvT4dl90vyR0WVYgLwYc0BETwLJ_ySYOc
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  Tiny crate, does what it says in a clear way.
+----- SIGN CREV PROOF -----
+XdPVAxyi837594icCHDZtgTlT1DEfzNKlNXPhinGU82m8-I-4EeadFhMmRTueMITe2dgJteU2QYGBy1cYO--AA
+----- END CREV PROOF -----
+
